@@ -1,3 +1,0 @@
-]
-
-modifiedfile1.txt  index.html
